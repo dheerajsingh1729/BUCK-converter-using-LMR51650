@@ -1,0 +1,37 @@
+Warning: Width correction constrained.  The width correction value must be in the range of [0.000001 mm; 0.199999 mm] for the current design rules.
+Plotted to 'C:\Users\dheer\Downloads\FOOTPRINT-F_Cu.gbr'.
+Plotted to 'C:\Users\dheer\Downloads\FOOTPRINT-B_Cu.gbr'.
+Plotted to 'C:\Users\dheer\Downloads\FOOTPRINT-F_Paste.gbr'.
+Plotted to 'C:\Users\dheer\Downloads\FOOTPRINT-B_Paste.gbr'.
+Plotted to 'C:\Users\dheer\Downloads\FOOTPRINT-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\dheer\Downloads\FOOTPRINT-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\dheer\Downloads\FOOTPRINT-F_Mask.gbr'.
+Plotted to 'C:\Users\dheer\Downloads\FOOTPRINT-B_Mask.gbr'.
+Plotted to 'C:\Users\dheer\Downloads\FOOTPRINT-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\dheer\Downloads\FOOTPRINT-job.gbrjob'.
+Info: Done.
+Plotted to 'C:\Users\dheer\Downloads\FOOTPRINT-F_Cu.gbr'.
+Plotted to 'C:\Users\dheer\Downloads\FOOTPRINT-B_Cu.gbr'.
+Plotted to 'C:\Users\dheer\Downloads\FOOTPRINT-F_Paste.gbr'.
+Plotted to 'C:\Users\dheer\Downloads\FOOTPRINT-B_Paste.gbr'.
+Plotted to 'C:\Users\dheer\Downloads\FOOTPRINT-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\dheer\Downloads\FOOTPRINT-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\dheer\Downloads\FOOTPRINT-F_Mask.gbr'.
+Plotted to 'C:\Users\dheer\Downloads\FOOTPRINT-B_Mask.gbr'.
+Plotted to 'C:\Users\dheer\Downloads\FOOTPRINT-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\dheer\Downloads\FOOTPRINT-job.gbrjob'.
+Info: Done.
+Plotted to 'C:\Users\dheer\Downloads\FOOTPRINT-F_Cu.gbr'.
+Plotted to 'C:\Users\dheer\Downloads\FOOTPRINT-B_Cu.gbr'.
+Plotted to 'C:\Users\dheer\Downloads\FOOTPRINT-F_Paste.gbr'.
+Plotted to 'C:\Users\dheer\Downloads\FOOTPRINT-B_Paste.gbr'.
+Plotted to 'C:\Users\dheer\Downloads\FOOTPRINT-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\dheer\Downloads\FOOTPRINT-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\dheer\Downloads\FOOTPRINT-F_Mask.gbr'.
+Plotted to 'C:\Users\dheer\Downloads\FOOTPRINT-B_Mask.gbr'.
+Plotted to 'C:\Users\dheer\Downloads\FOOTPRINT-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\dheer\Downloads\FOOTPRINT-job.gbrjob'.
+Info: Done.
+Info: Done.
+Info: Done.
+Info: Done.
